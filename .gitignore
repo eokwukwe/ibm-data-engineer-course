@@ -3,3 +3,4 @@ env/
 playground/
 etl-kafka-tolldata/kafka_2.12-2.8.0/
 etl-kafka-tolldata/kafka_2.12-2.8.0.tgz
+.env
