@@ -1,3 +1,3 @@
-# data-engineering-projects
+# data-engineering-course
 
-> This projects are part of the [IBM Data Engineering Specialization](https://www.coursera.org/professional-certificates/ibm-data-engineer) on `Coursera`.
+> These are project from the [IBM Data Engineering Specialization](https://www.coursera.org/professional-certificates/ibm-data-engineer) on `Coursera`.
